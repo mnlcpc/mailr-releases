@@ -5,5 +5,14 @@
     <link>https://github.com/mnlcpc/mailr-releases</link>
     <description>Mailr for Mac updates</description>
     <language>en</language>
+    <item>
+      <title>Mailr 1.0.0</title>
+      <pubDate>Mon, 16 Nov 2026 11:49:13 +0000</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/mnlcpc/mailr-releases/releases/tag/v1.0.0</link>
+      <enclosure url="https://github.com/mnlcpc/mailr-releases/releases/download/v1.0.0/Mailr-1.0.0.zip" sparkle:edSignature="cQ6e2SFWt6P8L3bDu7ijH6pVSBEnSKpekSaEJAqnHgDXhjivZSyDEt+8C+EAwXzgGi3F7BrvIPnfQrBUKG41BA==" length="10014218" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
